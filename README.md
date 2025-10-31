@@ -16,11 +16,11 @@ It performs arithmetic operations using low-level instructions and DOS interrupt
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Test#1.png" alt="Code and emulator in action" width="500"/><br/>
+  <img src="https://github.com/DixonJafet/x8086ASMCalc/raw/main/Test%231.png" alt="Code and emulator in action" width="500"/><br/>
   <em>Calculator logic running in EMU8086 environment</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/DixonJafet/x8086ASMCalc/raw/812d8082a930d5f9269fa6f066d099dc5bb7d034/Test%232.png" alt="Calculator interface" width="300"/><br/>
+  <img src="https://github.com/DixonJafet/x8086ASMCalc/raw/main/Test%232.png" alt="Calculator interface" width="300"/><br/>
   <em>Graphical calculator performing a division operation</em>
 </p>
