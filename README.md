@@ -21,6 +21,6 @@ It performs arithmetic operations using low-level instructions and DOS interrupt
 </p>
 
 <p align="center">
-  <img src="Test#2.png" alt="Calculator interface" width="300"/><br/>
+  <img src="[Test#2.png](https://github.com/DixonJafet/x8086ASMCalc/blob/812d8082a930d5f9269fa6f066d099dc5bb7d034/Test%232.png)" alt="Calculator interface" width="300"/><br/>
   <em>Graphical calculator performing a division operation</em>
 </p>
